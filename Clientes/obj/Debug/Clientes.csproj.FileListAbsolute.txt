@@ -101,3 +101,4 @@ C:\Users\JoseMa\Documents\UTN_Marcial\WEB II\Primer_proyecto\Clientes_I_tarea\Cl
 C:\Users\JoseMa\Documents\UTN_Marcial\WEB II\Primer_proyecto\Clientes_I_tarea\Clientes\obj\Debug\Clientes.pdb
 C:\Users\JoseMa\Documents\UTN_Marcial\WEB II\Primer_proyecto\Clientes_I_tarea\Clientes\obj\Debug\Clientes.Migrations.Create_persona_table.resources
 C:\Users\JoseMa\Documents\UTN_Marcial\WEB II\Primer_proyecto\Clientes_I_tarea\Clientes\obj\Debug\Clientes.csproj.GenerateResource.Cache
+C:\Users\JoseMa\Documents\UTN_Marcial\WEB II\Primer_proyecto\Clientes_I_tarea\Clientes\obj\Debug\Clientes.Migrations.Carlos.resources
